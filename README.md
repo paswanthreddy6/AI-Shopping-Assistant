@@ -5,8 +5,8 @@
 Welcome to **AI Shopping Assistant**, a modern and user-friendly website designed to make online shopping easier and smarter.
 
 🌐 **Website Name:** AI Shopping Assistant
-🔗 **Live Website:** https://paswanthreddy6.github.io/ai-shopping-assistant/
-💻 **GitHub Repository:** https://github.com/paswanthreddy6/ai-shopping-assistant
+🔗 **Live Website:** https://paswanthreddy6.github.io/AI-Shopping-Assistant/
+💻 **GitHub Repository:** https://github.com/paswanthreddy6/Ai-Shopping-Assistant
 
 ## ✨ Features
 
